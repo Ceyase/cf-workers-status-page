@@ -1,6 +1,6 @@
 settings:
   title: 'Ceyase 下属站点状态检查'
-  url: 'https://status.ceyase.cn' # used for Slack messages
+  url: 'https://status.ceyase.cn'
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
